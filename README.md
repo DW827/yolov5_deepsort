@@ -4,7 +4,7 @@
 
 - Win10
 - python 3.9.10。
-- yolov5 v6.1版。使用的权重文件可以在此下载：链接：https://pan.baidu.com/s/17Wpjq1X2NL33KNY3TNpPlQ 提取码：o0lz
+- yolov5 v6.1版。使用的权重文件可以在此下载：链接：链接：https://pan.baidu.com/s/1Clmp-Y2O17S8a7m6FbGiJQ 提取码：ub88
 
 ## 功能
 - 实现了 交叉口四个进口道车辆类型 分别计数。
